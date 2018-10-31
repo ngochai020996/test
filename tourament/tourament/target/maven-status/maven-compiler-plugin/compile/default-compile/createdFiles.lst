@@ -1,0 +1,8 @@
+com\axonactive\training\tourament\match\Match.class
+com\axonactive\training\tourament\player\Gender.class
+com\axonactive\training\tourament\player\GenderConverter.class
+com\axonactive\training\tourament\table\Table.class
+com\axonactive\training\tourament\tourament\Tourament.class
+com\axonactive\training\tourament\team\Team.class
+com\axonactive\training\tourament\matchresult\MatchResult.class
+com\axonactive\training\tourament\player\Player.class
